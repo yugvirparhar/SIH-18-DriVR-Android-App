@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a7436db4cd92355499a5a19c390713b3
+timeCreated: 1522448124
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DevLys 010 Thin
+  fontNames:
+  - DevLys 010 Thin
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

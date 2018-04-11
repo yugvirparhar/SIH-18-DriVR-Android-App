@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "848501366431",
+    "firebase_url": "https://sihtestfb.firebaseio.com",
+    "project_id": "sihtestfb",
+    "storage_bucket": "sihtestfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848501366431:android:97878faf0a3e69d8",
+        "android_client_info": {
+          "package_name": "com.SIHTestFB.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848501366431-l7tndr7psebmks6ond3fm77jf7gaqsrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrnfE3BLghgOq7vUdclsXzy25Dib3obYA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

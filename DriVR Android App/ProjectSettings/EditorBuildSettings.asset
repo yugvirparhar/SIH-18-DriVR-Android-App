@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/start screen.unity
+    guid: 44a798151a5f10b4886427c2ad7fa8c6
+  - enabled: 1
+    path: Assets/scenes/main menu.unity
+    guid: 72527fb586d743a41adab826d43e67d3
+  - enabled: 1
+    path: Assets/scenes/rules.unity
+    guid: 893b1bc4fb74550428c6b7365736e798
+  - enabled: 1
+    path: Assets/scenes/TrafficSigns.unity
+    guid: 61b93803d881c54468a17fdf8124ee78
+  - enabled: 1
+    path: Assets/scenes/pscych test/Persistent.unity
+    guid: 2472da1e11d7e374a8f820a2c86972f8
+  - enabled: 1
+    path: Assets/scenes/pscych test/Menu Screen.unity
+    guid: d9998ffc386c3764db2815a32492513e
+  - enabled: 1
+    path: Assets/scenes/pscych test/Game.unity
+    guid: 5974205cf2e7ce24999a7b29c6787186
+  - enabled: 1
+    path: Assets/finalgame/Sih final.unity
+    guid: 0215b910ee4a4fb46b2bd69e01f4d100
+  - enabled: 0
+    path: Assets/the game/Sih final.unity
+    guid: f3c268ff767323c49b96280f2b7e3ec0
+  - enabled: 1
+    path: Assets/scenes/awareness.unity
+    guid: d7c3e4980ee9a15488f328186cf52cc4
